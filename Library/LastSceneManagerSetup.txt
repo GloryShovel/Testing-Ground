@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/CubeMarchingLabyrinth.unity
+- path: Assets/General/Scenes/CubeMarching.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
